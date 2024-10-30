@@ -1,2 +1,1 @@
-# TestProject
-Can be deleted later
+# IT452 Unit 2 Assignment
